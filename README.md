@@ -1,4 +1,3 @@
-```markdown
 # Tempmail Edu PHP SDK (nhanchaukp/tempmail-edu-php)
 
 A lightweight PHP SDK for TempMail.Id.Vn API to make integration simple and composer-installable.
@@ -54,5 +53,3 @@ Ghi chú:
 - Bạn có thể đặt token thủ công bằng `$client->setAccessToken('...')`.
 
 Ví dụ đầy đủ: xem `examples/example.php`.
-
-```
